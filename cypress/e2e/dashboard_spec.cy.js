@@ -15,5 +15,5 @@ describe('User dashboard with user flows', () => {
       .contains('Turing Cafe Reservations')
   })
 
-  it('Should have a form with inputs for a name ')
+  it('Should have a form with inputs for a name, date, time, number of guests, and a reservation button')
 })
